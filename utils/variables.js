@@ -1,0 +1,1 @@
+export const hostBackend = 'https://3dd0-89-232-236-182.ngrok-free.app/api/'
